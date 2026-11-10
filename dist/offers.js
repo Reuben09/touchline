@@ -1,18 +1,5 @@
 window.TOUCHLINE_SAMPLE = [
   {
-    "slug": "welcome-match",
-    "title": "Welcome Deposit Match",
-    "category": "Welcome",
-    "value": "100% up to ₦25,000",
-    "rules": [
-      "Available to verified new customers on their first deposit of at least ₦1,000.",
-      "Opt in before depositing. Wager the bonus five times on pre-match bets at decimal odds of 1.80 or higher.",
-      "The bonus and any restricted winnings expire seven days after credit."
-    ],
-    "sort_order": 1,
-    "active": true
-  },
-  {
     "slug": "second-deposit",
     "title": "Second Deposit Boost",
     "category": "Welcome",
