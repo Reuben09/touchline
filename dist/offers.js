@@ -26,19 +26,6 @@ window.TOUCHLINE_SAMPLE = [
     "active": true
   },
   {
-    "slug": "acca-boost",
-    "title": "Accumulator Boost",
-    "category": "Football",
-    "value": "Up to 25% extra",
-    "rules": [
-      "Place a cash accumulator with at least four football selections at odds of 1.40 or higher each.",
-      "Four winning legs earn 5% extra on net winnings. Add five percentage points per additional winning leg, up to 25%.",
-      "Void legs are removed before calculating the boost. The maximum boost is ₦20,000 per ticket."
-    ],
-    "sort_order": 3,
-    "active": true
-  },
-  {
     "slug": "acca-cover",
     "title": "One-Leg Acca Cover",
     "category": "Football",
