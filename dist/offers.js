@@ -1,18 +1,5 @@
 window.TOUCHLINE_SAMPLE = [
   {
-    "slug": "second-deposit",
-    "title": "Second Deposit Boost",
-    "category": "Welcome",
-    "value": "50% up to ₦10,000",
-    "rules": [
-      "Verified customers can opt in before their second deposit of at least ₦2,000.",
-      "Wager the bonus four times on settled pre-match singles at odds of 1.80 or higher.",
-      "Complete wagering within five days of credit."
-    ],
-    "sort_order": 2,
-    "active": true
-  },
-  {
     "slug": "acca-cover",
     "title": "One-Leg Acca Cover",
     "category": "Football",
