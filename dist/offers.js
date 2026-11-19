@@ -39,19 +39,6 @@ window.TOUCHLINE_SAMPLE = [
     "active": true
   },
   {
-    "slug": "weekend-reload",
-    "title": "Weekend Reload",
-    "category": "Reloads",
-    "value": "30% up to ₦7,500",
-    "rules": [
-      "Opt in before your first deposit of at least ₦2,500 between Friday 00:00 and Sunday 23:59 WAT.",
-      "Wager the credited bonus four times on settled pre-match bets at odds of 1.75 or higher.",
-      "Bonus wagering closes seven days after credit. One reload per weekend."
-    ],
-    "sort_order": 7,
-    "active": true
-  },
-  {
     "slug": "monday-cashback",
     "title": "Monday Sports Cashback",
     "category": "Reloads",
