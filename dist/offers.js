@@ -1,18 +1,5 @@
 window.TOUCHLINE_SAMPLE = [
   {
-    "slug": "acca-cover",
-    "title": "One-Leg Acca Cover",
-    "category": "Football",
-    "value": "Up to ₦5,000 back",
-    "rules": [
-      "Opt in before placing a cash football accumulator with at least five selections at odds of 1.50 or higher each.",
-      "If exactly one selection loses and all others win, receive your stake back as a free bet, capped at ₦5,000.",
-      "Limited to the first qualifying ticket per day. Use the free bet within three days."
-    ],
-    "sort_order": 4,
-    "active": true
-  },
-  {
     "slug": "early-payout",
     "title": "Two-Goal Early Payout",
     "category": "Football",
